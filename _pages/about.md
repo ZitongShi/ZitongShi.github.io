@@ -7,6 +7,60 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+  dl {
+    margin-bottom: 50px; /* 控制下方的间距 */
+    clear: both;
+    font-family: 'Arial', sans-serif; /* 更改字体为更现代的样式 */
+  }
+
+  dl dt img {
+    width: 380px; /* 调整图片宽度 */
+    height: 220px; /* 调整图片高度 */
+    object-fit: cover; /* 确保图片按比例裁剪 */
+    display: block;
+    margin: 12px 12px 12px 0px; /* 调整图片的外边距 */
+    
+    /* 美化效果 */
+    border-radius: 12px; /* 加强圆角效果 */
+    border: 3px solid #e0e0e0; /* 使用较浅的边框颜色 */
+    box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.1); /* 添加更柔和的阴影效果 */
+    padding: 6px; /* 增加内边距 */
+    background-color: #fafafa; /* 更柔和的背景色 */
+  }
+
+  hr {
+    border: 1px solid #f0f0f0; /* 使用更柔和的分隔线 */
+    clear: both;
+    margin-top: 15px; /* 增加顶部间距 */
+    margin-bottom: 15px; /* 增加底部间距 */
+  }
+
+  dl dd {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    font-size: 1.1em; /* 调整字体大小使其更加突出 */
+  }
+
+  dl dd strong {
+    font-weight: bold;
+    color: #333; /* 使用深色文本 */
+  }
+
+  .co-first {
+    color: #3c6ce7; /* 使用醒目的红色 */
+  }
+
+  .down {
+    transform: rotate(180deg);
+    transition: transform 0.3s ease; /* 增加平滑的旋转过渡效果 */
+  }
+
+  .down:hover {
+    transform: rotate(0deg); /* 鼠标悬停时恢复原状 */
+  }
+</style>
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -17,42 +71,118 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi, my name is Zitong Shi (Chinese: 史梓桐), a 4-year undergraduate student at Wuhan University. 
+I have closely collaborated with [Prof. Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN), 
+[Guancheng Wan](https://scholar.google.com/citations?user=pB8zP9UAAAAJ&hl=zh-CN), 
+and [Wenke Huang](https://scholar.google.com/citations?user=aFoCI3MAAAAJ&hl=zh-CN). I am seeking PhD opportunities for Fall 2026.🔥🔥
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# 🔍 Research
 
+
+My academic exploration focuses on the deep analysis and dynamic relationship modeling of graph-structured data. Currently, my research is focused on:
+
+- Multi-agent systems 🤖
+- Graph learning 📍
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01*: 🎉🎉🎉One paper was accepted by **ICLR 2025**. 
 
-# 📝 Publications 
+# 📃 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+**&dagger; Equal Contribution**   
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/FedTGE.png">
+</dt>
+  <dd><a href="https://openreview.net/forum?id=5Jc7r5aqHJ"><strong>	
+Energy-based Backdoor Defense Against Federated Graph Learning
+</strong></a></dd>
+<dd><strong>Guancheng Wan&dagger;</strong>, Zitong Shi&dagger;</strong><span class="co-first">(co-first)</span>, Wenke Huang&dagger;, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
+<dd> <strong class="co-first"><i>Oral Presentation (1.8%)</i></strong> in International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+</dl>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+<hr>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📝 Manuscripts
+<dl>
+  <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/EAGLES.png">
+  </dt>
+  <dd><a href=""><strong>EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification</strong></a></dd>
+  <dd><strong>Zitong Shi, Guancheng Wan, Guibin Zhang, Wenke Huang, He Li, Mang Ye</strong></dd>
+  <dd>under review, 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/EPEAgent.png">
+  </dt>
+  <dd><a href=""><strong>Privacy-Enhancing Paradigms within Federated Multi-Agent Systems</strong></a></dd>
+  <dd><strong>Zitong Shi, Guancheng Wan, Wenke Huang, Guibin Zhang, Jiawei Shao, Mang Ye, Carl Yang</strong></dd>
+  <dd>under review, 2025</dd>
+</dl>
+
+<hr>
+
+# 🎡 Service
+## Conference Committee Member
+
+- Reviewer for ICML'2025
+
+##  Journal Reviewer
+- Reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+<!-- - Reviewer for Data-centric Machine Learning Research (DMLR) -->
+
+<hr>
+
+<br/>
+
+# 🎖 Scholarships and Honors
+
+<br/>
+
+<hr>
+
+# 📖 Education
+
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; gap: 20px;">
+    <div style="flex: 1; font-size: 1.1em;">
+      <strong>2022.09 - Now</strong><br/>
+      Undergraduate, School of Computer Science, Wuhan University<br/>
+    </div>
+    <div style="flex-shrink: 0; max-width: 100px;">
+      <img src="../images/WHU.jpeg" alt="Wuhan University Logo" style="width: 100%; height: auto; object-fit: contain;" />
+    </div>
+  </div>
 </div>
+
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; gap: 20px;">
+    <div style="flex: 1; font-size: 1.1em;">
+      <strong>2019.09 - 2022.06</strong><br/>
+      High School: Xiaochang First High School<br/>
+    </div>
+    <div style="flex-shrink: 0; max-width: 100px;">
+      <img src="highschool-logo.png" alt="High School Logo" style="width: 100%; height: auto; object-fit: contain;" />
+    </div>
+  </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+
+
+
+
+<br/>
+
+
+
+
+
+
