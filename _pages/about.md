@@ -110,7 +110,7 @@ hspace="10" wspace="20" src="../images/EAGLES.png">
   <dd><a href=""><strong>	
 EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification
 </strong></a></dd>
-<dd><strong>Zitong Shi&dagger;</strong><span class="co-first"></span>, Guancheng Wan&dagger;,  Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
+<dd><strong>Zitong Shi&dagger;</strong><span class="co-first"></span>, Guancheng Wan&dagger;,  Wenke Huang, Guibin Zhang, He Li, Carl Yang, Mang Ye</dd>
 <dd> in International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
 
 </dl>
