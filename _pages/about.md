@@ -72,7 +72,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, my name is Zitong Shi (Chinese: 史梓桐), a 4-year undergraduate student at Wuhan University. 
-I have closely collaborated with [Prof. Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN), [Prof. Carl J Yang](https://scholar.google.com.hk/citations?hl=zh-CN&user=mOINlwcAAAAJ) [Guancheng Wan](https://scholar.google.com/citations?user=pB8zP9UAAAAJ&hl=zh-CN), 
+I have closely collaborated with [Prof. Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN), [Prof. Carl J Yang](https://scholar.google.com.hk/citations?hl=zh-CN&user=mOINlwcAAAAJ), [Guancheng Wan](https://scholar.google.com/citations?user=pB8zP9UAAAAJ&hl=zh-CN), 
 and [Wenke Huang](https://scholar.google.com/citations?user=aFoCI3MAAAAJ&hl=zh-CN). I am seeking PhD opportunities for Fall 2026.🔥🔥
 
 # 🔍 Research
