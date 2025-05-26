@@ -81,10 +81,12 @@ and [Wenke Huang](https://scholar.google.com/citations?user=aFoCI3MAAAAJ&hl=zh-C
 
 My academic exploration focuses on the deep analysis and dynamic relationship modeling of graph-structured data. Currently, my research is focused on:
 
+- Large Language Models 🧠
 - Multi-agent systems 🤖
 - Graph learning 📍
 
 # 🔥 News
+- *2025.05*: 🎉🎉🎉One paper was accepted by **ICML 2025**.
 - *2025.01*: 🎉🎉🎉One paper was accepted by **ICLR 2025**. 
 
 # 📃 Publications 
@@ -97,20 +99,32 @@ hspace="10" wspace="20" src="../images/FedTGE.png">
   <dd><a href="https://openreview.net/forum?id=5Jc7r5aqHJ"><strong>	
 Energy-based Backdoor Defense Against Federated Graph Learning
 </strong></a></dd>
-<dd><strong>Guancheng Wan&dagger;</strong>, Zitong Shi&dagger;</strong><span class="co-first">(co-first)</span>, Wenke Huang&dagger;, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
+<dd><strong>Zitong Shi&dagger;</strong>, Guancheng Wan&dagger;,  Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
 <dd> <strong class="co-first"><i>Oral Presentation (1.8%)</i></strong> in International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
 
 </dl>
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/EAGLES.png">
+</dt>
+  <dd><a href=""><strong>	
+EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification
+</strong></a></dd>
+<dd><strong>Zitong Shi&dagger;</strong><span class="co-first"></span>, Guancheng Wan&dagger;,  Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
+<dd> in International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
+
+</dl>
+
 
 <hr>
 
 # 📝 Manuscripts
 <dl>
-  <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/EAGLES.png">
+  <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/FocalLoRA.png">
   </dt>
-  <dd><a href=""><strong>EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification</strong></a></dd>
-  <dd><strong>Zitong Shi, Guancheng Wan, Guibin Zhang, Wenke Huang, He Li, Mang Ye</strong></dd>
-  <dd>under review, 2025</dd>
+  <dd><a href=""><strong>Don’t Forget the Enjoin: FocalLoRA for Instruction Hierarchical Alignment in Large Language Models</strong></a></dd>
+  <dd>under review</dd>
 </dl>
 
 <hr>
@@ -119,8 +133,14 @@ Energy-based Backdoor Defense Against Federated Graph Learning
   <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/EPEAgent.png">
   </dt>
   <dd><a href=""><strong>Privacy-Enhancing Paradigms within Federated Multi-Agent Systems</strong></a></dd>
-  <dd><strong>Zitong Shi, Guancheng Wan, Wenke Huang, Guibin Zhang, Jiawei Shao, Mang Ye, Carl Yang</strong></dd>
-  <dd>under review, 2025</dd>
+  <dd>under review</dd>
+</dl>
+
+<dl>
+  <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/TRUST.png">
+  </dt>
+  <dd><a href=""><strong>Multi-order Orchestrated Curriculum Distillation for Model-Heterogeneous Federated Graph Learning</strong></a></dd>
+  <dd>under review</dd>
 </dl>
 
 <hr>
@@ -132,17 +152,20 @@ Energy-based Backdoor Defense Against Federated Graph Learning
 
 ##  Journal Reviewer
 - Reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- Reviewer for IEEE Transactions on Image Processing (TIP)
 <!-- - Reviewer for Data-centric Machine Learning Research (DMLR) -->
 
 <hr>
 
 <br/>
 
-# 🎖 Scholarships and Honors
+[//]: # (# 🎖 Scholarships and Honors)
 
-<br/>
+[//]: # ()
+[//]: # (<br/>)
 
-<hr>
+[//]: # ()
+[//]: # (<hr>)
 
 # 📖 Education
 
@@ -158,17 +181,27 @@ Energy-based Backdoor Defense Against Federated Graph Learning
   </div>
 </div>
 
-<div style="margin-bottom: 40px;">
-  <div style="display: flex; align-items: center; gap: 20px;">
-    <div style="flex: 1; font-size: 1.1em;">
-      <strong>2019.09 - 2022.06</strong><br/>
-      High School: Xiaochang First High School<br/>
-    </div>
-    <div style="flex-shrink: 0; max-width: 100px;">
-      <img src="highschool-logo.png" alt="High School Logo" style="width: 100%; height: auto; object-fit: contain;" />
-    </div>
-  </div>
-</div>
+[//]: # (<div style="margin-bottom: 40px;">)
+
+[//]: # (  <div style="display: flex; align-items: center; gap: 20px;">)
+
+[//]: # (    <div style="flex: 1; font-size: 1.1em;">)
+
+[//]: # (      <strong>2019.09 - 2022.06</strong><br/>)
+
+[//]: # (      High School: Xiaochang First High School<br/>)
+
+[//]: # (    </div>)
+
+[//]: # (    <div style="flex-shrink: 0; max-width: 100px;">)
+
+[//]: # (      <img src="highschool-logo.png" alt="High School Logo" style="width: 100%; height: auto; object-fit: contain;" />)
+
+[//]: # (    </div>)
+
+[//]: # (  </div>)
+
+[//]: # (</div>)
 
 
 

@@ -26,7 +26,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zitong Shi"
   avatar           : "images/avatar-512x512.png"
-  bio              : "undergraduate student at Wuhan University"
+  bio              :
   location         :
   employer         :
   pubmed           : 
