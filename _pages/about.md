@@ -126,8 +126,6 @@ EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning vi
   <dd>under review</dd>
 </dl>
 
-<hr>
-
 <dl>
   <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/EPEAgent.png">
   </dt>
@@ -139,6 +137,13 @@ EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning vi
   <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/TRUST.png">
   </dt>
   <dd><a href=""><strong>Multi-order Orchestrated Curriculum Distillation for Model-Heterogeneous Federated Graph Learning</strong></a></dd>
+  <dd>under review</dd>
+</dl>
+
+<dl>
+  <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/GraphLLM.png">
+  </dt>
+  <dd><a href=""><strong>Towards Robust Text-Attributed Federated Graph Learning: Multimodal Threats and Defense</strong></a></dd>
   <dd>under review</dd>
 </dl>
 
