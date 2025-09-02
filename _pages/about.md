@@ -160,6 +160,7 @@ EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning vi
 
 - Reviewer for ICML'2025
 - Reviewer for AAAI'2026
+
 ##  Journal Reviewer
 - Reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - Reviewer for IEEE Transactions on Image Processing (TIP)
