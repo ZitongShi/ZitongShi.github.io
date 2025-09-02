@@ -85,6 +85,7 @@ My academic exploration focuses on the deep analysis and dynamic relationship mo
 - Graph learning 📍
 
 # 🔥 News
+- *2025.08*: I serve as a reviewer for **AAAI 2026**.
 - *2025.05*: 🎉🎉🎉One paper was accepted by **ICML 2025**.
 - *2025.01*: 🎉🎉🎉One paper was accepted by **ICLR 2025**. 
 
@@ -153,7 +154,7 @@ EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning vi
 ## Conference Committee Member
 
 - Reviewer for ICML'2025
-
+- Reviewer for AAAI'2026
 ##  Journal Reviewer
 - Reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - Reviewer for IEEE Transactions on Image Processing (TIP)
