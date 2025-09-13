@@ -85,7 +85,7 @@ My academic exploration focuses on the deep analysis and dynamic relationship mo
 - Graph learning 📍
 
 # 🔥 News
-- *2025.09*: I joined Microsoft Research Asia (MSRA) as a research intern. .
+- *2025.09*: I joined Microsoft Research Asia (**MSRA**) as a research intern.
 - *2025.08*: I serve as a reviewer for **AAAI 2026**.
 - *2025.05*: 🎉🎉🎉One paper was accepted by **ICML 2025**.
 - *2025.01*: 🎉🎉🎉One paper was accepted by **ICLR 2025**. 
@@ -184,7 +184,7 @@ EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning vi
 <div style="margin-bottom: 40px;">
   <div style="display: flex; align-items: center; gap: 20px;">
     <div style="flex: 1; font-size: 1.1em;">
-      <strong>MSRA </strong><br/>
+      <strong>Microsoft Research Asia </strong><br/>
       Internship, 2025.09 - Now<br/>
     Topic: Safety AI<br/>
     </div>
