@@ -85,6 +85,7 @@ My academic exploration focuses on the deep analysis and dynamic relationship mo
 - Graph learning 📍
 
 # 🔥 News
+- *2025.09*: 🎉🎉🎉Two paper were accepted by **NIPS 2025**.
 - *2025.09*: I joined Microsoft Research Asia (**MSRA**) as a research intern.
 - *2025.08*: I serve as a reviewer for **AAAI 2026**.
 - *2025.05*: 🎉🎉🎉One paper was accepted by **ICML 2025**.
@@ -117,16 +118,20 @@ EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning vi
 
 </dl>
 
-
-<hr>
-
-# 📝 Manuscripts
 <dl>
   <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/FocalLoRA.png">
   </dt>
   <dd><a href=""><strong>Don’t Forget the Enjoin: FocalLoRA for Instruction Hierarchical Alignment in Large Language Models</strong></a></dd>
-  <dd>under review</dd>
+<dd><strong>Zitong Shi&dagger;</strong><span class="co-first"></span>, Guancheng Wan&dagger;,  Haixin Wang, Ruoyan Li, Zijie Huang, .. Carl Yang, Yizhou Sun, Wei Wang </dd>
+<dd> in Neural Information Processing Systems (<strong>NIPS</strong>), 2025</dd>
+
 </dl>
+
+
+<hr>
+
+# 📝 Manuscripts
+
 
 [//]: # (<dl>)
 
@@ -140,12 +145,7 @@ EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning vi
 
 [//]: # (</dl>)
 
-<dl>
-  <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/TRUST.png">
-  </dt>
-  <dd><a href=""><strong>Multi-order Orchestrated Curriculum Distillation for Model-Heterogeneous Federated Graph Learning</strong></a></dd>
-  <dd>under review</dd>
-</dl>
+
 
 <dl>
   <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/GraphLLM.png">
