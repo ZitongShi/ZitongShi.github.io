@@ -141,7 +141,6 @@ EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning vi
 <dd> in Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025</dd>
 
 </dl>
-<hr>
 
 <dl>
   <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/NIPS25.png">
