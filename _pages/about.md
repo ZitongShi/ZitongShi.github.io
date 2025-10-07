@@ -143,6 +143,16 @@ EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning vi
 </dl>
 <hr>
 
+<dl>
+  <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/NIPS25.png">
+  </dt>
+  <dd><a href=""><strong>Multi-order Orchestrated Curriculum Distillation for Model-Heterogeneous Federated Graph Learning</strong></a></dd>
+<dd>Guancheng Wan, Xu Cheng, Run Liu, Wenke Huang, <strong>Zitong Shi</strong>, Pinyi Jin, Guibin Zhang, Bo Du, Mang Ye </dd>
+<dd> in Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025</dd>
+
+</dl>
+<hr>
+
 [//]: # (# 📝 Manuscripts)
 
 
