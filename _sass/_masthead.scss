@@ -5,7 +5,7 @@
 .masthead {
   position: sticky;
   top: 0;
-  background-color: white;
+  background-color: #1C1C1D;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -61,4 +61,17 @@
   }
 }
 
+/* 添加到文件末尾 */
+.masthead {
+  a {
+    color: #e0e0e0;
 
+    &:hover {
+      color: #ffffff;
+    }
+  }
+}
+
+.site-title {
+  color: #ffffff;
+}

@@ -53,15 +53,15 @@ $type-size-8                : 0.625em;  // ~10px
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$light-gray                 : #4a4a4a;           /* 修改为深色 */
+$lighter-gray               : #3a3a3a;           /* 修改为深色 */
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$body-color                 : #1C1C1D;           /* 修改：从 #fff 改为 #1C1C1D */
+$background-color           : #1C1C1D;           /* 修改：从 #fff 改为 #1C1C1D */
+$code-background-color      : #2a2a2b;           /* 修改：从 #fafafa 改为 #2a2a2b */
+$code-background-color-dark : #1a1a1b;           /* 修改：更深的代码背景 */
+$text-color                 : #e0e0e0;           /* 修改：从 $dark-gray 改为 #e0e0e0 */
+$border-color               : #3a3a3a;           /* 修改：从 $lighter-gray 改为 #3a3a3a */
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
@@ -94,12 +94,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
-
+$link-color                 : #5b9cf5;           /* 修改：更亮的蓝色 */
+$link-color-hover           : #89b4f8;           /* 修改：悬停时更亮 */
+$link-color-visited         : #9b7ff5;           /* 修改：访问过的链接 */
+$masthead-link-color        : #e0e0e0;           /* 修改：导航栏链接颜色 */
+$masthead-link-color-hover  : #ffffff;           /* 修改：导航栏悬停颜色 */
 
 /*
    Breakpoints
