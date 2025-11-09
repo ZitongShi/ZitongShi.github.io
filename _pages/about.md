@@ -85,6 +85,7 @@ My academic exploration focuses on the deep analysis and dynamic relationship mo
 - Graph learning 📍
 
 # 🔥 News
+- *2025.09*: 🎉🎉🎉One paper was accepted by **AAAI 2026**.
 - *2025.09*: 🎉🎉🎉Two papers were accepted by **NIPS 2025**.
 - *2025.09*: I joined Microsoft Research Asia (**MSRA**) as a research intern.
 - *2025.08*: I serve as a reviewer for **AAAI 2026**.
@@ -139,6 +140,17 @@ EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning vi
   <dd><a href=""><strong>Don’t Forget the Enjoin: FocalLoRA for Instruction Hierarchical Alignment in Large Language Models</strong></a></dd>
 <dd><strong>Zitong Shi&dagger;</strong><span class="co-first"></span>, Guancheng Wan&dagger;,  Haixin Wang, Ruoyan Li, Zijie Huang, Wanjia Zhao, Yijia Xiao, Xiao Luo, Carl Yang, Yizhou Sun, Wei Wang </dd>
 <dd> in Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025</dd>
+
+</dl>
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/aaaiFramework.png">
+</dt>
+  <dd><a href=""><strong>	
+Towards Robust Text-Attributed Federated Graph Learning: Multimodal Threats and Defense</strong></a></dd>
+<dd><strong>Zitong Shi&dagger</strong><span class="co-first"></span>, Guancheng Wan, Wenke Huang, Yuxin Wu, QUAN ZHANG, Mang Ye</dd>
+<dd> in Association for the Advancement of Artificial Intelligence (<strong>AAAI</strong>), 2026</dd>
 
 </dl>
 
