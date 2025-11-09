@@ -119,9 +119,6 @@ EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning vi
 
 </dl>
 
-
-
-
 [//]: # (<dl>)
 
 [//]: # (  <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/FocalLoRA.png">)
@@ -156,7 +153,6 @@ Towards Robust Text-Attributed Federated Graph Learning: Multimodal Threats and 
 <dd> in Association for the Advancement of Artificial Intelligence (<strong>AAAI</strong>), 2026</dd>
 
 </dl>
-
 
 <dl>
   <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/NIPS25.png">
