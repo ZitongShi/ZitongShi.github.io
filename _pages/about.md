@@ -149,7 +149,7 @@ hspace="10" wspace="20" src="../images/aaaiFramework.png">
 </dt>
   <dd><a href=""><strong>	
 Towards Robust Text-Attributed Federated Graph Learning: Multimodal Threats and Defense</strong></a></dd>
-<dd><strong>Zitong Shi&dagger</strong><span class="co-first"></span>, Guancheng Wan, Wenke Huang, Yuxin Wu, QUAN ZHANG, Mang Ye</dd>
+<dd><strong>Zitong Shi</strong><span class="co-first"></span>, Guancheng Wan, Wenke Huang, Yuxin Wu, QUAN ZHANG, Mang Ye</dd>
 <dd> in Association for the Advancement of Artificial Intelligence (<strong>AAAI</strong>), 2026</dd>
 
 </dl>
