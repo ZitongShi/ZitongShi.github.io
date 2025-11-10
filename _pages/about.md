@@ -85,7 +85,8 @@ My academic exploration focuses on the deep analysis and dynamic relationship mo
 - Graph learning 📍
 
 # 🔥 News
-- *2025.09*: 🎉🎉🎉One paper was accepted by **AAAI 2026**.
+- *2025.11*: 🎉🎉🎉One paper was accepted by **AAAI 2026**.
+- *2025.11*: I serve as a reviewer for **CVPR 2026**.
 - *2025.09*: 🎉🎉🎉Two papers were accepted by **NIPS 2025**.
 - *2025.09*: I joined Microsoft Research Asia (**MSRA**) as a research intern.
 - *2025.08*: I serve as a reviewer for **AAAI 2026**.
