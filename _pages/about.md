@@ -85,6 +85,7 @@ My academic exploration focuses on the deep analysis and dynamic relationship mo
 - Graph learning 📍
 
 # 🔥 News
+- *2026.01*: I serve as a reviewer for **ICML 2026**.
 - *2025.11*: 🎉🎉🎉One paper was accepted by **AAAI 2026**.
 - *2025.11*: I serve as a reviewer for **CVPR 2026**.
 - *2025.09*: 🎉🎉🎉Two papers were accepted by **NIPS 2025**.
@@ -155,15 +156,21 @@ Towards Robust Text-Attributed Federated Graph Learning: Multimodal Threats and 
 
 </dl>
 
-<dl>
-  <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/NIPS25.png">
-  </dt>
-  <dd><a href=""><strong>Multi-order Orchestrated Curriculum Distillation for Model-Heterogeneous Federated Graph Learning</strong></a></dd>
-<dd>Guancheng Wan, Xu Cheng, Run Liu, Wenke Huang, <strong>Zitong Shi</strong>, Pinyi Jin, Guibin Zhang, Bo Du, Mang Ye </dd>
-<dd> in Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025</dd>
+[//]: # (<dl>)
 
-</dl>
-<hr>
+[//]: # (  <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/NIPS25.png">)
+
+[//]: # (  </dt>)
+
+[//]: # (  <dd><a href=""><strong>Multi-order Orchestrated Curriculum Distillation for Model-Heterogeneous Federated Graph Learning</strong></a></dd>)
+
+[//]: # (<dd>Guancheng Wan, Xu Cheng, Run Liu, Wenke Huang, <strong>Zitong Shi</strong>, Pinyi Jin, Guibin Zhang, Bo Du, Mang Ye </dd>)
+
+[//]: # (<dd> in Neural Information Processing Systems &#40;<strong>NeurIPS</strong>&#41;, 2025</dd>)
+
+[//]: # ()
+[//]: # (</dl>)
+[//]: # (<hr>)
 
 [//]: # (# 📝 Manuscripts)
 
@@ -225,7 +232,7 @@ Towards Robust Text-Attributed Federated Graph Learning: Multimodal Threats and 
   <div style="display: flex; align-items: center; gap: 20px;">
     <div style="flex: 1; font-size: 1.1em;">
       <strong>Microsoft Research Asia </strong><br/>
-      Internship, 2025.09 - Now<br/>
+      Internship, 2025.09 - 2025.11<br/>
     Topic: Safety AI<br/>
     </div>
     <div style="flex-shrink: 0; max-width: 100px;">
