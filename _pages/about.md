@@ -84,7 +84,7 @@ My academic exploration focuses on the deep analysis and dynamic relationship mo
 - Graph learning 📍
 
 # 🔥 News
-- *2026.01*: I serve as a reviewer for **ICML 2026**.
+- *2026.01*: I serve as a reviewer for **ICML 2026** and **ECCV 2026**.
 - *2025.11*: 🎉🎉🎉One paper was accepted by **AAAI 2026**.
 - *2025.11*: I serve as a reviewer for **CVPR 2026**.
 - *2025.09*: 🎉🎉🎉Two papers were accepted by **NIPS 2025**.
