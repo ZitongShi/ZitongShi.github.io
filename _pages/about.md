@@ -72,7 +72,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, my name is Zitong Shi (Chinese: 史梓桐), a 4-year undergraduate student at Wuhan University. 
-I have closely collaborated with [Prof. Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN). I will join the National University of Singapore (NUS) as a PhD student starting Fall 2026.🔥🔥
+I have closely collaborated with [Prof. Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN). I will join the National University of Singapore (NUS) as a PhD starting Fall 2026.🔥🔥
 
 # 🔍 Research
 
