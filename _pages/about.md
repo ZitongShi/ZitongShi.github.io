@@ -79,8 +79,7 @@ I have closely collaborated with [Prof. Mang Ye](https://scholar.google.com/cita
 
 My academic exploration focuses on the deep analysis and dynamic relationship modeling of graph-structured data. Currently, my research is focused on:
 
-- Large Language Models 🧠
-- Multi-agent systems 🤖
+- Agent Memory System/Memory Enhancement 🤖
 - Graph learning 📍
 
 # 🔥 News
