@@ -71,11 +71,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Zitong Shi (Chinese: 史梓桐), a 4-year undergraduate student at Wuhan University. 
-I have closely collaborated with [Prof. Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN). I will join the National University of Singapore (NUS) as a PhD starting Fall 2026.🔥🔥
+Hi, I'm Zitong Shi (Chinese: 史梓桐), a fourth-year undergraduate student at Wuhan University. Starting in Fall 2026, I will join the [National University of Singapore](https://nus.edu.sg/) as a PhD student in Computer Science, advised by [Prof. Tung Kum Hoe Anthony](https://www.comp.nus.edu.sg/cs/people/atung/). My current research primarily focuses on agent memory, and I am also actively working on graph learning.🔥🔥
+
+
 
 # 🔍 Research
-
 
 My academic exploration focuses on the deep analysis and dynamic relationship modeling of graph-structured data. Currently, my research is focused on:
 
@@ -83,6 +83,7 @@ My academic exploration focuses on the deep analysis and dynamic relationship mo
 - Graph learning 📍
 
 # 🔥 News
+- *2026.05*: I serve as a reviewer for **NeurIPS 2026**.
 - *2026.01*: I serve as a reviewer for **ICML 2026** and **ECCV 2026**.
 - *2025.11*: 🎉🎉🎉One paper was accepted by **AAAI 2026**.
 - *2025.11*: I serve as a reviewer for **CVPR 2026**.
