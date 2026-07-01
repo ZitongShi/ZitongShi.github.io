@@ -85,7 +85,7 @@ My academic exploration focuses on the deep analysis and dynamic relationship mo
 - Graph learning 📍
 
 # 🔥 News
-- *2026.06*: 🎉🎉🎉I received the **Lei Jun Breakthrough Scholarship** (Department-Wide: 3/649).
+- *2026.06*: 🎉🎉🎉I received the **Lei Jun Breakthrough Scholarship** (Department-Wide: 3/950).
 - *2026.05*: I was invited to server as a reviewer for **NeurIPS 2026**.
 - *2026.01*: I was invited to server as a reviewer for **ICML 2026** and **ECCV 2026**.
 - *2025.11*: 🎉🎉🎉One paper was accepted by **AAAI 2026**.
