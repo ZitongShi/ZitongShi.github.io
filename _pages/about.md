@@ -72,7 +72,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi, I’m Zitong Shi (史梓桐), a fourth-year undergraduate at Wuhan University. I will be joining the [National University of Singapore](https://nus.edu.sg/) in Fall 2026 as a PhD student in Computer Science, working with [Prof. Anthony Kum Hoe Tung](https://www.comp.nus.edu.sg/cs/people/atung/). My research focuses on agent memory, especially building memory-augmented agents that can work reliably in real-world settings. I’m also interested in graph learning, with a particular focus on secure and efficient learning over graph-structured data.🔥🔥
+Hi, I’m Zitong Shi (史梓桐), a fourth-year undergraduate at Wuhan University. I will be joining the [National University of Singapore](https://nus.edu.sg/) in Fall 2026 as a PhD student in Computer Science, advised by [Prof. Anthony Kum Hoe Tung](https://www.comp.nus.edu.sg/cs/people/atung/). My research focuses on agent memory, especially building memory-augmented agents that can work reliably in real-world settings. I’m also interested in graph learning, with a particular focus on secure and efficient learning over graph-structured data.🔥🔥
 
 
 
