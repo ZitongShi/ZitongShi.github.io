@@ -442,23 +442,10 @@ section > p:first-of-type {
   mix-blend-mode: multiply;
 }
 
-.organization-mark {
-  display: grid;
-  width: 72px;
-  height: 72px;
-  flex: none;
-  color: #ffffff;
-  font-family: var(--serif);
-  font-size: 1.25rem;
-  font-weight: 700;
-  letter-spacing: 0.04em;
-  place-items: center;
-  border-radius: 50%;
-}
-
-.nus-mark {
-  background: linear-gradient(145deg, #ef7c00, #003d7c);
-  box-shadow: 0 8px 20px rgba(0, 61, 124, 0.16);
+.nus-logo {
+  width: 150px;
+  height: 78px;
+  mix-blend-mode: normal;
 }
 
 .microsoft-logo {
@@ -610,10 +597,9 @@ footer {
     height: 58px;
   }
 
-  .organization-mark {
-    width: 58px;
+  .nus-logo {
+    width: 112px;
     height: 58px;
-    font-size: 1rem;
   }
 
   .microsoft-logo {
