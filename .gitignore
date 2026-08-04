@@ -1,3 +1,7 @@
 _site/
-push.sh
+.idea/
+.trunk/
+.vscode/
+.git_broken_*/
+Thumbs.db
 .DS_Store
