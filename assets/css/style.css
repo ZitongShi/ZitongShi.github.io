@@ -450,6 +450,7 @@ section > p:first-of-type {
 
 .microsoft-logo {
   width: 95px;
+  mix-blend-mode: normal;
 }
 
 .service-grid {
