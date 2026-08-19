@@ -306,9 +306,10 @@ section > p:first-of-type {
 
 .publication-item {
   display: grid;
-  grid-template-columns: 104px 1fr;
-  gap: 1.25rem;
-  padding: 1.15rem 0.8rem;
+  grid-template-columns: minmax(190px, 230px) 82px minmax(0, 1fr);
+  align-items: center;
+  gap: 1rem;
+  padding: 1.25rem 0.8rem;
   border-bottom: 1px dashed var(--border);
   border-radius: var(--radius);
   transition:
@@ -319,6 +320,39 @@ section > p:first-of-type {
 .publication-item:hover {
   background: var(--surface-blue);
   border-color: var(--accent-soft);
+}
+
+.publication-figure {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-height: 112px;
+  padding: 0.5rem;
+  background: #ffffff;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  overflow: hidden;
+  transition:
+    border-color 150ms ease,
+    box-shadow 150ms ease;
+}
+
+.publication-figure:hover {
+  border-color: var(--accent);
+  box-shadow: 0 5px 14px rgba(57, 122, 168, 0.12);
+}
+
+.publication-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 132px;
+  object-fit: contain;
+}
+
+.publication-content {
+  min-width: 0;
 }
 
 .venue-badge {
@@ -561,7 +595,12 @@ footer {
 
   .publication-item {
     grid-template-columns: 1fr;
-    gap: 0.35rem;
+    align-items: start;
+    gap: 0.65rem;
+  }
+
+  .publication-figure {
+    max-width: 520px;
   }
 
   .venue-badge {
