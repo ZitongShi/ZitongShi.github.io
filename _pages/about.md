@@ -41,7 +41,7 @@ My research focuses on **hierarchical reasoning** and **graph learning**. I am p
   <ol class="news-list">
     <li>
       <time datetime="2026-06">2026.06</time>
-      <p>Received the <strong>Lei Jun Breakthrough Scholarship</strong> (Department-Wide: 3/649).</p>
+      <p>Received the <strong>Lei Jun Breakthrough Scholarship</strong> (Department-Wide: 3/950).</p>
     </li>
     <li>
       <time datetime="2026-05">2026.05</time>
