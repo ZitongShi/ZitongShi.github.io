@@ -1,0 +1,16 @@
+title: Zitong Shi
+description: Zitong Shi's academic homepage — research, publications, experience, and academic service.
+url: https://zitongshi.github.io
+baseurl: ""
+repository: ZitongShi/ZitongShi.github.io
+encoding: utf-8
+
+markdown: kramdown
+include:
+  - _pages
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
