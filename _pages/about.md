@@ -10,7 +10,7 @@ title: Zitong Shi
 
 Hi, I’m **Zitong Shi (史梓桐)**, a PhD student in Computer Science at the [National University of Singapore](https://nus.edu.sg/){:target="_blank" rel="noreferrer"}, advised by [Prof. Anthony Kum Hoe Tung](https://www.comp.nus.edu.sg/cs/people/atung/){:target="_blank" rel="noreferrer"}.
 
-My research focuses on **agent memory**, especially memory-augmented agents that can work reliably in real-world settings. I am also interested in **graph learning**, with a particular focus on secure and efficient learning over graph-structured data.
+My research focuses on **hierarchical reasoning** and **graph learning**. I am particularly interested in formalizing complex problems through structured representations, motivated by the view that many real-world problems can be naturally modeled as hierarchies or graphs. My work explores how these structures can enable more systematic, interpretable, and generalizable reasoning and learning.
 
 </section>
 
@@ -19,10 +19,10 @@ My research focuses on **agent memory**, especially memory-augmented agents that
   <div class="card-grid">
     <article class="info-card">
       <p class="card-label">Primary direction</p>
-      <h3>Agent Memory Systems</h3>
+      <h3>Hierarchical Reasoning</h3>
       <p>
-        Building memory-augmented agents that can retain useful experience and operate
-        reliably in real-world environments.
+        Developing methods that decompose complex problems into hierarchical structures to
+        support systematic, interpretable, and generalizable reasoning.
       </p>
     </article>
     <article class="info-card">
